@@ -103,7 +103,11 @@ a {
   line-height: 1.14;
   letter-spacing: 0.02em;
   color: #757575;
+<<<<<<< HEAD
+  align-items: center;
+=======
   align-items: flex-end;
+>>>>>>> 6aed1a7a05bc69836cbdf4d2899d24604a0427c0
   display: flex;
   margin-left: 50px;
 }
@@ -116,16 +120,33 @@ a {
   line-height: 1.14;
   letter-spacing: 0.02em;
   color: #757575;
+<<<<<<< HEAD
+  align-items: center;
+=======
   align-items: flex-end;
+>>>>>>> 6aed1a7a05bc69836cbdf4d2899d24604a0427c0
   display: flex;
   margin-left: 50px;
 }
 
+<<<<<<< HEAD
+.header-mail:hover path,
+.header-tel:hover path {
+  fill: #2196f3;
+}
+
+.header-contact-icon {
+  margin-right: 10px;
+  transition: .5s;
+}
+
+=======
 .header-mail:hover svg,
 .header-tel:hover svg {
   fill: #2196f3;
 }
 
+>>>>>>> 6aed1a7a05bc69836cbdf4d2899d24604a0427c0
 .header-btn {
   font-family: inherit;
   font-weight: 700;
@@ -142,7 +163,11 @@ a {
 /*-------------HERO---------------------------*/
 
 .hero {
+<<<<<<< HEAD
+  background: linear-gradient(#2f303a66, #2f303a66), url("../images/Img.jpg");
+=======
   background: url("../images/Img.png"), rgba(47, 48, 58, 0.4);
+>>>>>>> 6aed1a7a05bc69836cbdf4d2899d24604a0427c0
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -356,10 +381,24 @@ a {
   background-color: #2196f3;
 }
 
+<<<<<<< HEAD
+.team-soc-link:focus {
+  background-color: #2196f3;
+}
+
+=======
+>>>>>>> 6aed1a7a05bc69836cbdf4d2899d24604a0427c0
 .team-soc-link:hover .team-soc-icon {
   fill: #ffffff;
 }
 
+<<<<<<< HEAD
+.team-soc-link:focus .team-soc-icon {
+  fill: #ffffff;
+}
+
+=======
+>>>>>>> 6aed1a7a05bc69836cbdf4d2899d24604a0427c0
 /*-------------CLIENTS---------------------------*/
 
 .clients-title {
@@ -368,6 +407,10 @@ a {
   font-weight: 700;
   font-size: 36px;
   line-height: 42px;
+<<<<<<< HEAD
+  text-align: center;
+=======
+>>>>>>> 6aed1a7a05bc69836cbdf4d2899d24604a0427c0
   letter-spacing: 0.03em;
 
   color: #212121;
@@ -407,6 +450,17 @@ a {
   fill: #2196f3;
 }
 
+<<<<<<< HEAD
+.client-link:focus .client-wrapper {
+  border: 1px solid #2196f3;
+}
+
+.client-link:focus .client-logo path {
+  fill: #2196f3;
+}
+
+=======
+>>>>>>> 6aed1a7a05bc69836cbdf4d2899d24604a0427c0
 /*-------------FOOTER---------------------------*/
 
 .footer {
@@ -491,6 +545,17 @@ a {
   fill: #ffffff;
 }
 
+<<<<<<< HEAD
+.footer-soc-link:focus {
+  background-color: #2196f3;
+}
+
+.footer-soc-link:focus .footer-soc-icon {
+  fill: #ffffff;
+}
+
+=======
+>>>>>>> 6aed1a7a05bc69836cbdf4d2899d24604a0427c0
 /*-------------PAGE 2---------------------------*/
 
 /*-------------BTN-LIST---------------------------*/
@@ -554,7 +619,10 @@ a {
   border-right: 1px solid #eeeeee;
   border-bottom: 1px solid #eeeeee;
   position: relative;
+<<<<<<< HEAD
+=======
   top: -3px;
+>>>>>>> 6aed1a7a05bc69836cbdf4d2899d24604a0427c0
   padding: 20px 24px;
 }
 
